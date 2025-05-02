@@ -15,7 +15,7 @@ This website is built to:
 - Provide information about TEDx and TED
 
 ## 🚀 Tech Stack
-- **Frontend:** HTML, CSS, Bootstrap, JavaScript 
+- **Frontend:** HTML, CSS, Bootstrap, JavaScript
 - **Domain:** `tedx.ajou.uz`
 
 ## 📄 License
@@ -30,5 +30,5 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## 📧 Contact
 For questions or collaborations, contact us at:  
-**Email:** scientificsecretary@ajou.uz 
+**Email:** scientificsecretary@ajou.uz  
 **Social Media:** [@TEDxAjouTashkent](https://www.instagram.com/tedxajou_u_tashkent/?__pwa=1#)  
